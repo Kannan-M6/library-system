@@ -5,7 +5,7 @@
 
 [build.environment]
   CI = "false"
-  REACT_APP_API_URL = "https://your-backend-name.onrender.com/api"
+  REACT_APP_API_URL = "https://libraryiq-backend.onrender.com"
 
 [[redirects]]
   from   = "/*"
