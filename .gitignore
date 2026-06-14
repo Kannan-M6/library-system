@@ -1,0 +1,17 @@
+node_modules/
+build/
+.env
+.env.local
+.env.production
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+instance/
+*.db
+*.sqlite3
+.venv/
+venv/
+uploads/
